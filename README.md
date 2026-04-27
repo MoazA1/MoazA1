@@ -3,7 +3,7 @@
 Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM) with experience in frontend development, Agile environments, and requirements engineering. Interested in building scalable, user-focused systems and contributing to real-world technology solutions.
 
 ## Technical Skills
-JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Python, Git, GitHub, Figma, Wix Studio, Lucid Charts, Jira, ClickUp
+JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Python, Git, GitHub, Figma, Wix Studio, Lucid Charts, Jira, ClickUp, CapCut
 
 ## Experience Highlights
 - Developed frontend components for a research management dashboard within an Agile environment  
